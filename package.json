@@ -1,0 +1,43 @@
+{
+  "name": "git-quickcommit",
+  "version": "1.0.1",
+  "description": "Run git add, commit, and push in one command from the terminal.",
+  "author": {
+    "name": "vanholler",
+    "email": "vanholler@mail.ru",
+    "url": "https://github.com/vanholler"
+  },
+  "homepage": "https://github.com/vanholler/quickcommit#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanholler/quickcommit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vanholler/quickcommit/issues"
+  },
+  "bin": {
+    "qc": "bin/qc.js"
+  },
+  "files": [
+    "bin",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "start": "node ./bin/qc.js",
+    "pack:check": "npm pack --dry-run"
+  },
+  "keywords": [
+    "git",
+    "commit",
+    "push",
+    "automation",
+    "quickcommit",
+    "cli",
+    "productivity"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  }
+}
