@@ -1,5 +1,5 @@
 {
-  "name": "git-quickcommit",
+  "name": "git-quickcommit-cli",
   "version": "1.0.1",
   "description": "Run git add, commit, and push in one command from the terminal.",
   "author": {

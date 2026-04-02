@@ -5,7 +5,7 @@ A global CLI utility that executes your full Git cycle with one command: `git ad
 ## Install
 
 ```bash
-npm install -g git-quickcommit
+npm install -g git-quickcommit-cli
 ```
 
 ## Usage
