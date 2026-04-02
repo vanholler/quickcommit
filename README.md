@@ -86,3 +86,7 @@ Command sequence used internally:
 ## License
 
 MIT
+
+## Repository
+
+https://github.com/vanholler/quickcommit.git
